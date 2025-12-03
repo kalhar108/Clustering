@@ -8,16 +8,16 @@
 
 ## 📋 Table of Contents
 
-1. [Project Overview](#project-overview)
-2. [Repository Structure](#repository-structure)
-3. [Notebooks Description](#notebooks-description)
-4. [Technologies and Libraries](#technologies-and-libraries)
-5. [Installation Guide](#installation-guide)
-6. [Usage Instructions](#usage-instructions)
-7. [Key Concepts and Algorithms](#key-concepts-and-algorithms)
-8. [Results and Visualizations](#results-and-visualizations)
-9. [Learning Outcomes](#learning-outcomes)
-10. [References](#references)
+1. [Project Overview]
+2. [Repository Structure]
+3. [Notebooks Description]
+4. [Technologies and Libraries]
+5. [Installation Guide]
+6. [Usage Instructions]
+7. [Key Concepts and Algorithms]
+8. [Results and Visualizations]
+9. [Learning Outcomes]
+10. [References]
 
 ---
 
