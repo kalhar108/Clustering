@@ -40,15 +40,15 @@ This repository contains a comprehensive collection of **9 Jupyter notebooks** d
 ```
 clustering-project/
 │
-├── a_kmeans_from_scratch.ipynb          # K-Means algorithm implementation
-├── b_hierarchical_clustering.ipynb       # Hierarchical clustering methods
-├── c_gaussian_mixture_models.ipynb       # GMM and probabilistic clustering
-├── d_dbscan_pycaret.ipynb               # Density-based clustering with PyCaret
-├── e_anomaly_detection_pyod.ipynb       # Outlier detection with PyOD
-├── f_timeseries_clustering.ipynb        # Time series clustering techniques
-├── g_document_clustering_llm.ipynb      # Document clustering with embeddings
-├── h_image_clustering_imagebind.ipynb   # Image clustering with CLIP/ImageBind
-├── i_audio_clustering_embeddings.ipynb  # Audio clustering with deep learning
+├── A_kmeans_from_scratch.ipynb          # K-Means algorithm implementation
+├── B_hierarchical_clustering.ipynb       # Hierarchical clustering methods
+├── C_gaussian_mixture_models.ipynb       # GMM and probabilistic clustering
+├── D_dbscan_pycaret.ipynb               # Density-based clustering with PyCaret
+├── E_anomaly_detection_pyod.ipynb       # Outlier detection with PyOD
+├── F_timeseries_clustering.ipynb        # Time series clustering techniques
+├── G_document_clustering_llm.ipynb      # Document clustering with embeddings
+├── H_image_clustering_imagebind.ipynb   # Image clustering with CLIP/ImageBind
+├── I_audio_clustering_embeddings.ipynb  # Audio clustering with deep learning
 └── README.md                             # This file
 ```
 
