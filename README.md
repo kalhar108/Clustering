@@ -2,7 +2,7 @@
 
 **Author:** Kalhar Mayurbhai Patel  
 **SJSU ID:** 019140511  
-**Course Project:** Machine Learning - Clustering Methods
+**Assignment:** Machine Learning - Clustering Methods
 
 ---
 
